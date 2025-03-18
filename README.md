@@ -60,14 +60,15 @@ Generates automated reports to demonstrate adherence to security policies and re
 Automated Response:
 Many SIEMs integrate with SOAR (Security Orchestration, Automation, and Response) platforms to automate incident response actions.
 
-SOC and SIEM Integration/Use cases
+<h2>SOC and SIEM Integration/Use cases </h2>
+
 A SOC Analyst receives an alert from the SIEM indicating a potential brute force attack.
 The analyst investigates the logs and identifies the source IP and compromised user account.
 Using integrated threat intelligence, the SOC validates the threat.
 Incident response is initiated — the IP is blocked at the firewall, the compromised account is disabled, and affected systems are isolated for forensic analysis.
 Finally, the SIEM generates a detailed report for documentation and compliance purposes.
 
-Conclusion
+<h3>Conclusion </h3>
 
 A Security Operations Center is vital for protecting an organization's assets by providing continuous monitoring, incident response, and threat management.
 The integration of a SIEM enables SOC teams to efficiently detect and respond to threats through centralized data analysis, real-time alerting, and automated response capabilities.
