@@ -16,7 +16,7 @@ Proactive Threat Management: Proactively searches for vulnerabilities and threat
 
 Reduced Downtime: Effective incident response reduces operational disruptions and minimizes financial losses.
 
-<h1>Key Functions of a SOC </h1> 
+<h2>Key Functions of a SOC </h2> 
 
 Monitoring and Detection:
 Uses tools like SIEM (Security Information and Event Management) for log aggregation, analysis, and real-time alerting.
