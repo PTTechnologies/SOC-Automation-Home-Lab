@@ -36,7 +36,8 @@ Generates reports and maintains logs to ensure regulatory compliance.
 Vulnerability Management:
 Assists in identifying and patching vulnerabilities to prevent exploitation.
 
-Integration of SIEM in a SOC
+<h2>Integration of SIEM in a SOC </h2>
+
 What is a SIEM?
 SIEM (Security Information and Event Management) is a solution that aggregates, normalizes, and analyzes log data from various sources across an organization's IT infrastructure.
 It provides real-time visibility into security events and generates alerts for suspicious activities.
@@ -60,7 +61,7 @@ Generates automated reports to demonstrate adherence to security policies and re
 Automated Response:
 Many SIEMs integrate with SOAR (Security Orchestration, Automation, and Response) platforms to automate incident response actions.
 
-<h2>SOC and SIEM Integration/Use cases </h2>
+<h2>SOC and SIEM Use Cases & Implementation </h2>
 
 A SOC Analyst receives an alert from the SIEM indicating a potential brute force attack.
 The analyst investigates the logs and identifies the source IP and compromised user account.
